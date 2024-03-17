@@ -1,7 +1,7 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: M.Pavithra
-## Register Number: 212222100032
+## Name: mohan raj
+## Register Number: 212221230064
 
 ## Aim:
 
